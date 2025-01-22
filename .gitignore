@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!.bashrc
+!.bash_aliases
+
+!bin/
+!bin/**
